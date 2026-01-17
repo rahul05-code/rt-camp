@@ -7,3 +7,7 @@ for i in range(n):
     for j in range(n):
         print("*", end="")
     print()
+
+print("Pattern printed successfully.")
+
+print("this is dev branch")
